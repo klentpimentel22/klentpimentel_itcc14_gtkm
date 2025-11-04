@@ -2,6 +2,12 @@ Hi, I'm Klent! 👋
 
 I am a 3rd Year BSIT student at Xavier University - Ateneo de Cagayan, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of Information Technology, exploring new ideas, and sharing my insights with the community.
 
+Fun fact 
+- I love dancing
+- I love painting
+- I love sketching
+- I love modelling 
+
 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University - Ateneo de Cagayan.
 - 🌱 I’m currently learning Frontend Design Web Development and API creation.
